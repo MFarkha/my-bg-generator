@@ -3,8 +3,8 @@
 // console.log(without);
 
 var _ = require('lodash');
-
-console.log(_);
+let arr = [1,2,3,4,5];
+console.log(_.without(arr, 4));
 
 let body = document.getElementById('gradient');
 let input1 = document.getElementsByClassName("input1")[0];
