@@ -1,6 +1,5 @@
 var body = document.getElementById('gradient');
-// var input1 = document.getElementsByClassName("input1")[0];
-var input1 = document.querySelector(".input1")
+var input1 = document.getElementsByClassName("input1")[0];
 var input2 = document.getElementsByClassName("input2")[0];
 var h3 = document.getElementsByTagName('h3')[0];
 
